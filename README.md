@@ -7,3 +7,6 @@ En este pequeño proyecto de Spring realizo la carga de unas computadoras utiliz
 * Tener descargado POSTMAN para poder realizar las llamadas a los objetos 
 * Tener descargado Intellij, Eclipse , Netbeans o cualquier IDE para poder correr el codigo JAVA 
 
+
+Creado por Emanuel Gonzalez Gartland.
+
